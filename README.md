@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @madrk111
 - 👀 I’m interested in learning to code and expanding my knowledge
-- 🌱 I’m currently learning css, html, javascript, python
 - 📫 How to reach me mrosekey11@gmail.com
 
 <!---
